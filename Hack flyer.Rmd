@@ -1,0 +1,90 @@
+## **Sheffield R Users group National Biodiversity Hack series**
+
+<div style="width:100px; height=60px">![Image](/Users/Anna/Documents/workflows/Sheffield_R/images/nbnglogo.png)</div><div style="width:50px; height=60px">![](/Users/Anna/Documents/workflows/Sheffield_R/images/swt.jpeg)</div>
+
+#### Background
+
+The [**Sheffield R Users**](http://sheffieldr.github.io/) group is organising a series of local [**National Biodiversity Hacks**](http://sheffieldr.github.io/nbn-hack/) throughout the month of **March**. The sessions will hosted by the **Sheffield Methods Instute** and run from a great collaborative space located at the [Interdisciplinary Centre of the Social Sciences](https://www.sheffield.ac.uk/icoss#) [[Map](https://www.google.co.uk/maps/place/Interdisciplinary+Centre+of+the+Social+Sciences/@53.3811084,-1.4839197,17z/data=!4m7!1m4!3m3!1s0x4879827f674a49cb:0xc3201928ecd6f113!2sInterdisciplinary+Centre+of+the+Social+Sciences!3b1!3m1!1s0x4879827f674a49cb:0xc3201928ecd6f113)]
+
+<br>
+
+
+#### **The overall philosophy of the hack series is: “no pressure, just learn and code for fun!”**
+
+<br>
+
+Having said that we believe hacks are great opportunity for skill and knowledge transfer and development so here are a few things we believe participants will gain:
+
+***
+
+### What you can expect to get involved in:
+
+<br>
+
+
+#### Make use of open data
+
+
+Data reserves are becoming increasingly openly available, with far reaching opportunity. 
+The [**National Biodiversity Network (NBN)**](http://nbn.org.uk/The-NBN/What-is-the-NBN.aspx) is a great example of an organisation which has made significant effort and investment to capture, integrate and make freely available the enormous reserves of UK biodiversity data.
+
+One way in which data is made available is through the [**NBN Gateway**](https://data.nbn.org.uk/) for which the recently developed [**`rnbn`** package](http://www.nbn.org.uk/News/Latest-news/rNBN-is-an-R-package-for-retrieving-data-from-the.aspx) allows direct access to the database. The hack will therefore provide an opportunity for participants to explore the NBN gateway resource and develop a better awareness of what is freely available 
+
+
+
+<br>
+
+#### Help local wildlife organisations
+
+
+We've been in touch with the Sheffield Wildlife Trust that could do with some help. They are working on a state of Sheffield biodiversity indices. This is a great opportunity to work on real world problems and contribute to real world solutions for the wider community.
+
+
+
+
+<br>
+
+#### Develop your **`R`** skills
+
+Hacks are great opportunities for peer to peer learning and learning through doing. There really is no better way of learning than being in the same room and be able to watch and interrogate. So we welcome participants of all levels and backgrounds and will be providing an environment with opportunity for contribution for all 
+
+
+
+<br>
+
+
+#### Learn to collaborate openly and effectively
+
+All work carried out during the hack will be coordinated through online repositories and open to the world allowing remote participation. So at the very least, the hacks will be a great opportunity to practice open collaborative working practices using technologies like [github](https://github.com/), [google hangouts](https://hangouts.google.com/), [etherpad](http://etherpad.org/) etc
+
+
+
+<br>
+
+#### Innovate!
+
+Hacks are a low pressure environment providing a space to experiment and test out ideas that may well not work out. So we hope to explore diverse outputs beyond standard academic outputs including
+
+
+<br>
+
+***
+
+
+
+### Hack series timetable:
+
+
+| Session                  | Date                | Time          |
+|--------------------------|---------------------|---------------|
+| Kickoff Event            | Tuesday 23 February | 17:30         |
+| Session 1                | Tuesday 1 March     | 13:00 onwards |
+| Session 2                | Tuesday 8 March     | 13:00 onwards |
+| Final Session & Feedback | Tuesday 15 March    | 13:00 onwards |
+
+
+### **Register [here](https://www.eventbrite.co.uk/e/sheffieldr-nbn-biodiversity-hack-tickets-21300740087)**
+
+@[Sheffield_R_](https://twitter.com/Sheffield_R_) [#RStats](https://twitter.com/hashtag/Rstats?src=hash)
+[#BiodiversityHack](https://twitter.com/search?q=%23BiodiversityHack&src=typd)
+
