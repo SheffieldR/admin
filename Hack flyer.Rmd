@@ -20,8 +20,8 @@ Having said that here are a few specific ways we believe participants will gain:
 
 ***
 
-<br>
-<br>
+
+
 
 ### **What you can expect to get involved in:**
 
@@ -98,8 +98,12 @@ Hacks provide a fun and informal space to **experiment and test out ideas** with
 
 ### **Register [here](https://www.eventbrite.co.uk/e/sheffieldr-nbn-biodiversity-hack-tickets-21300740087)**
 
+
+<br> 
+
+![](https://www.r-project.org/Rlogo.png)![](https://data.nbn.org.uk/Documentation/NBN_Gateway_Documentation/images/NBN-Gateway-Logo-200x.png)
+
 <br>
-@[Sheffield_R_](https://twitter.com/Sheffield_R_)
-[#ROpenSci]()[#RStats](https://twitter.com/hashtag/Rstats?src=hash)
-[#BiodiversityHack](https://twitter.com/search?q=%23BiodiversityHack&src=typd)
+
+#### @[Sheffield_R_](https://twitter.com/Sheffield_R_) | @[NBNTrust](https://twitter.com/NBNTrust) | @[WildSheffield](https://twitter.com/WildSheffield) | [#RStats](https://twitter.com/hashtag/Rstats?src=hash) | [#BiodiversityHack](https://twitter.com/search?q=%23BiodiversityHack&src=typd)
 
