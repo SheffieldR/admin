@@ -84,9 +84,9 @@ Hacks provide a fun and informal space to **experiment and test out ideas** with
 | Session                  | Date                | Time          |
 |--------------------------|---------------------|---------------|
 | Kickoff Event            | Tuesday 23 February | 17:30         |
-| Session 1                | Tuesday 1 March     | 13:00 onwards |
-| Session 2                | Tuesday 8 March     | 13:00 onwards |
-| Final Session & Feedback | Tuesday 15 March    | 13:00 onwards |
+| Session 1                | Tuesday 1 March     | 16:30 onwards |
+| Session 2                | Tuesday 8 March     | 16:30 onwards |
+| Final Session & Feedback | Tuesday 15 March    | 16:30 onwards |
 
 
 #### **Free lunch and refreshments will also be provided.**
