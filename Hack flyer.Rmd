@@ -16,7 +16,7 @@ The [**Sheffield R Users**](http://sheffieldr.github.io/) group is organising a 
 #### **The overall philosophy of the hack series is: “no pressure, just learn and code for fun!”**
 
 
-Having said that here are a few specific ways we believe participants will gain:
+Having said that here, are a few specific ways in which we believe participants will benefit:
 
 ***
 
@@ -31,10 +31,10 @@ Having said that here are a few specific ways we believe participants will gain:
 #### **Make use of open data**
 
 
-Data reserves are becoming increasingly openly available, with far reaching opportunity. 
-The [**National Biodiversity Network (NBN)**](http://nbn.org.uk/The-NBN/What-is-the-NBN.aspx) is a great example of an organisation which has made significant effort and investment to capture, integrate and make freely available the enormous reserves of UK biodiversity data.
+Data reserves are increasingly becoming openly available, with far reaching opportunity for a wude range of sectors. 
+The [**National Biodiversity Network (NBN)**](http://nbn.org.uk/The-NBN/What-is-the-NBN.aspx) is a great example of an organisation making significant effort and investment to capture, integrate and make freely available the enormous reserves of UK biodiversity data.
 
-One way in which data is made available is through the [**NBN Gateway**](https://data.nbn.org.uk/) for which the recently developed [**`rnbn`** package](http://www.nbn.org.uk/News/Latest-news/rNBN-is-an-R-package-for-retrieving-data-from-the.aspx) allows direct access to the database. The hack will therefore provide an opportunity for participants to **explore the NBN gateway resource** and develop a **better awareness of what is freely available**.
+One way in which data is made available is through the [**NBN Gateway**](https://data.nbn.org.uk/) for which the recently developed [**`rnbn`** package](http://www.nbn.org.uk/News/Latest-news/rNBN-is-an-R-package-for-retrieving-data-from-the.aspx) allows direct access. The hack will therefore provide an opportunity for participants to **explore the NBN gateway resource** and develop a **better awareness of what data are available and how to access it**.
 
 
 
@@ -43,7 +43,7 @@ One way in which data is made available is through the [**NBN Gateway**](https:/
 #### **Help local wildlife organisations**
 
 
-We've been in touch with the [**Sheffield & Rotherham Wildlife Trust**](http://www.wildsheffield.com/) and they **could do with some help in their efforts to describe the state of Sheffield nature**. They will be sending a representative to provide some guidance on ways we can help, from developing biodiversity indices, analysing temporal and spatial trends to producing monitoring dashboards. So the series provide a great opportunity to contribute to real world solutions for the wider Sheffield community.
+We've been in touch with the [**Sheffield & Rotherham Wildlife Trust**](http://www.wildsheffield.com/) and they could **do with some help** in their efforts to **describe the state of Sheffield nature**. They will be sending a representative to provide some guidance on ways we can help, from developing biodiversity indices, analysing temporal and spatial trends to producing monitoring dashboards. So the series will allow participants to contribute to real world solutions for the wider Sheffield community.
 
 
 
@@ -61,7 +61,7 @@ Hacks are great opportunities for **peer to peer knowledge transfer** and **lear
 
 #### **Learn to collaborate openly and effectively**
 
-All work carried out during the series will be **coordinated through online repositories** and **open to the world allowing remote participation**. So at the very least, the hacks will be a great opportunity to practice open collaborative working practices and using technologies like [**github**](https://github.com/), [**google hangouts**](https://hangouts.google.com/), [**etherpad**](http://etherpad.org/) etc. We also hope the series will strengthen our local network and act as a springboard for future collaborations.
+All work carried out during the series will be **coordinated through online repositories** and **open to the world allowing remote participation**. So at the very least, the hacks will provide opportunity to practice open collaborative working practices and using technologies like [**github**](https://github.com/), [**google hangouts**](https://hangouts.google.com/), [**etherpad**](http://etherpad.org/) etc. We also envisage that the series will strengthen our local network and act as a springboard for future collaborations.
 
 
 
