@@ -8,7 +8,7 @@
 
 
 
-The [**Sheffield R Users**](http://sheffieldr.github.io/) group is organising a series of local [**National Biodiversity Hacks**](http://sheffieldr.github.io/nbn-hack/) throughout the month of **March**. The sessions will be hosted by the **Sheffield Methods Instute** and run from a great collaborative space located at the [Interdisciplinary Centre of the Social Sciences](https://www.sheffield.ac.uk/icoss#) [[Map](https://www.google.co.uk/maps/place/Interdisciplinary+Centre+of+the+Social+Sciences/@53.3811084,-1.4839197,17z/data=!4m7!1m4!3m3!1s0x4879827f674a49cb:0xc3201928ecd6f113!2sInterdisciplinary+Centre+of+the+Social+Sciences!3b1!3m1!1s0x4879827f674a49cb:0xc3201928ecd6f113)]
+The [**Sheffield R Users**](http://sheffieldr.github.io/) group is organising a series of local [**National Biodiversity Hacks**](http://sheffieldr.github.io/nbn-hack/) throughout the month of **March**. The sessions will be hosted by the **Sheffield Methods Institute** and run from a great collaborative space located at the [Interdisciplinary Centre of the Social Sciences](https://www.sheffield.ac.uk/icoss#) [[Map](https://www.google.co.uk/maps/place/Interdisciplinary+Centre+of+the+Social+Sciences/@53.3811084,-1.4839197,17z/data=!4m7!1m4!3m3!1s0x4879827f674a49cb:0xc3201928ecd6f113!2sInterdisciplinary+Centre+of+the+Social+Sciences!3b1!3m1!1s0x4879827f674a49cb:0xc3201928ecd6f113)]
 
 <br>
 
@@ -31,7 +31,7 @@ Having said that here, are a few specific ways in which we believe participants 
 #### **Make use of open data**
 
 
-Data reserves are increasingly becoming openly available, with far reaching opportunity for a wude range of sectors. 
+Data reserves are increasingly becoming openly available, with far reaching opportunity for a wide range of sectors. 
 The [**National Biodiversity Network (NBN)**](http://nbn.org.uk/The-NBN/What-is-the-NBN.aspx) is a great example of an organisation making significant effort and investment to capture, integrate and make freely available the enormous reserves of UK biodiversity data.
 
 One way in which data is made available is through the [**NBN Gateway**](https://data.nbn.org.uk/) for which the recently developed [**`rnbn`** package](http://www.nbn.org.uk/News/Latest-news/rNBN-is-an-R-package-for-retrieving-data-from-the.aspx) allows direct access. The hack will therefore provide an opportunity for participants to **explore the NBN gateway resource** and develop a **better awareness of what data are available and how to access it**.
@@ -90,7 +90,7 @@ Hacks provide a fun and informal space to **experiment and test out ideas** with
 
 <small>*Kick off session will take place at the [Red Deer Pub, 18 Pitt Street, Sheffield. S1 4DD](https://www.google.co.uk/maps/place/Red+Deer,+Pitt+St,+Sheffield,+South+Yorkshire+S1+4DD/@53.3805417,-1.4825242,17z/data=!4m7!1m4!3m3!1s0x4879827f71e2d0f3:0xac838c49de752c04!2sRed+Deer,+Pitt+St,+Sheffield,+South+Yorkshire+S1+4DD!3b1!3m1!1s0x4879827f71e2d0f3:0xac838c49de752c04)</small>
 
-#### **Free lunch and refreshments will also be provided.**
+#### **Free refreshments will also be provided.**
 
 
 <br>
@@ -99,6 +99,7 @@ Hacks provide a fun and informal space to **experiment and test out ideas** with
 
 ### **Register [here](https://www.eventbrite.co.uk/e/sheffieldr-nbn-biodiversity-hack-tickets-21300740087)**
 
+<small>Please note that you do not need to be available for all sessions. We do however encourage participants to try to attend as many as possible, and if they can't physically make it, to attempt to participate remotely. </small>
 
 <br> 
 
