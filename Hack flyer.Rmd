@@ -16,7 +16,7 @@ The [**Sheffield R Users**](http://sheffieldr.github.io/) group is organising a 
 #### **The overall philosophy of the hack series is: “no pressure, just learn and code for fun!”**
 
 
-Having said that here, are a few specific ways in which we believe participants will benefit:
+Having said that, here are a few specific ways in which we believe participants will benefit:
 
 ***
 
@@ -34,7 +34,7 @@ Having said that here, are a few specific ways in which we believe participants 
 Data reserves are increasingly becoming openly available, with far reaching opportunity for a wide range of sectors. 
 The [**National Biodiversity Network (NBN)**](http://nbn.org.uk/The-NBN/What-is-the-NBN.aspx) is a great example of an organisation making significant effort and investment to capture, integrate and make freely available the enormous reserves of UK biodiversity data.
 
-One way in which data is made available is through the [**NBN Gateway**](https://data.nbn.org.uk/) for which the recently developed [**`rnbn`** package](http://www.nbn.org.uk/News/Latest-news/rNBN-is-an-R-package-for-retrieving-data-from-the.aspx) allows direct access. The hack will therefore provide an opportunity for participants to **explore the NBN gateway resource** and develop a **better awareness of what data are available and how to access it**.
+One way in which data is made available is through the [**NBN Gateway**](https://data.nbn.org.uk/) for which the recently developed [**`rnbn`** package](http://www.nbn.org.uk/News/Latest-news/rNBN-is-an-R-package-for-retrieving-data-from-the.aspx) allows direct access through **`R`**. The hack will therefore provide an opportunity for participants to **explore the NBN gateway resource** and develop a **better awareness of what data are available and how to access it**.
 
 
 
@@ -100,8 +100,7 @@ Hacks provide a fun and informal space to **experiment and test out ideas** with
 ### **Register [here](https://www.eventbrite.co.uk/e/sheffieldr-nbn-biodiversity-hack-tickets-21300740087)**
 
 <small>Please note that you do not need to be available for all sessions. We do however encourage participants to try to attend as many as possible, and if they can't physically make it, to attempt to participate remotely. </small>
-http://assets.environmentjob.co.uk/8dd9-SheffieldWildlifeTrustLogo.gif
-<br> 
+
 
 for more information please contact: <r-group@sheffield.ac.uk>
 
